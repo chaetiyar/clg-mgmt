@@ -1,4 +1,4 @@
-package com.fin.chit.group.servies.impl;
+package com.clg.mgmt.group.servies.impl;
 
 import java.util.List;
 import java.util.Optional;
@@ -10,11 +10,11 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.fin.chit.group.common.dao.Student;
-import com.fin.chit.group.common.dao.StudentList;
-import com.fin.chit.group.common.dao.Teachers;
-import com.fin.chit.group.common.dao.TeachersList;
-import com.fin.chit.group.servies.StudentServies;
+import com.clg.mgmt.group.common.dao.Student;
+import com.clg.mgmt.group.common.dao.StudentList;
+import com.clg.mgmt.group.common.dao.Teachers;
+import com.clg.mgmt.group.common.dao.TeachersList;
+import com.clg.mgmt.group.servies.StudentServies;
 
 @Service
 public class StudentServiceImpl implements StudentServies{

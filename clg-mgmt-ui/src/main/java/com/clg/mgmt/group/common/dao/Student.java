@@ -1,4 +1,4 @@
-package com.fin.chit.group.common.dao;
+package com.clg.mgmt.group.common.dao;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

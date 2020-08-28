@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: subbu
+Build-Jdk: 11.0.3
+Implementation-Title: chit servies ui - clg-mgmt-ui
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.memorynotfound.spring.mvc.thymeleaf
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://memorynotfound.com
+Created-By: Maven Integration for Eclipse
+

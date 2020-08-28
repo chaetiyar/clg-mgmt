@@ -1,4 +1,4 @@
-package com.memorynotfound.thymeleaf;
+package com.clg.mgmt.group.appliction;
 
 import java.util.List; 
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.fin.chit.group.common.dao.Student;
-import com.fin.chit.group.common.dao.Teachers;
-import com.fin.chit.group.servies.StudentServies;
+import com.clg.mgmt.group.common.dao.Student;
+import com.clg.mgmt.group.common.dao.Teachers;
+import com.clg.mgmt.group.servies.StudentServies;
 
 @Controller
 @SpringBootApplication

@@ -1,10 +1,10 @@
-package com.fin.chit.group.servies;
+package com.clg.mgmt.group.servies;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.fin.chit.group.common.dao.Student;
-import com.fin.chit.group.common.dao.Teachers;
+import com.clg.mgmt.group.common.dao.Student;
+import com.clg.mgmt.group.common.dao.Teachers;
 
 
 public interface StudentServies {

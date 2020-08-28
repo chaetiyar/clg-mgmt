@@ -1,4 +1,4 @@
-package com.fin.chit.group.main;
+package com.clg.mgmt.group.main;
 
 public interface Constants {
 	
